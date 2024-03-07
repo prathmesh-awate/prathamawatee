@@ -8,7 +8,7 @@ export default function Home() {
       <h2>Pratham Awatee</h2>
       <ul>
         <li><a href="bsc-cs">Bachelor of Science in Computer Science</a></li>
-        <li><a href="work">Freelance Web Developer</a></li>
+        <li><a href="work">Freelance Web Deaveloper</a></li>
       </ul>
     </main>
   );
